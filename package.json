@@ -12,6 +12,6 @@
     "canvas": "2.11.2",
     "dayjs": "1.11.8",
     "prompts": "2.4.2",
-    "resemblejs": "4.1.0"
+    "resemblejs": "5.0.0"
   }
 }
